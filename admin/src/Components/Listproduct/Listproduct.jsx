@@ -33,7 +33,7 @@ const remove_product = async (id)=>{
         <p>Title</p>
         <p>Old price </p>
         <p>New price</p>
-        <p>Category</p>
+        <p>category</p>
         <p>Remove</p>
       </div>
       <div className="allproduct">
